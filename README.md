@@ -17,4 +17,4 @@ Built with React, Vite, and Redux Toolkit, and integrated with a language model 
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [RapidAPI - Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
-- [Axios](https://axios-http.com/) or [Fetch API]
+

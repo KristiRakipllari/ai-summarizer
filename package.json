@@ -1,6 +1,5 @@
 {
-  "name": "ai-summarizer",
-  "homepage": "htpps://KristiRakipllari.github.io/ai-summarizer",
+  "name": "shortify",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.7.0",

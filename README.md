@@ -10,11 +10,10 @@ Built with React, Vite, and Redux Toolkit, and integrated with a language model 
 - ♻️ Stores history using Redux
 - 📋 Clipboard support
 
-## Api / Tech used
+## Tech Stack
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [RapidAPI - Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
-- [Axios](https://axios-http.com/) or [Fetch API]
+- Frontend: [React](https://reactjs.org/)
+- State Management: [Redux Toolkit](https://redux-toolkit.js.org/)
+- Build Tool: [Vite](https://vitejs.dev/)
+- API:[RapidAPI - Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
+- Environment: [Node.js](https://nodejs.org/docs/latest/api/documentation.html)
